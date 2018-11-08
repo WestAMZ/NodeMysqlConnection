@@ -1,0 +1,7 @@
+/*Inicializar proyecto*/
+
+	npm init --yes
+
+
+/**/
+	npm i express ejs mysql body-parser
