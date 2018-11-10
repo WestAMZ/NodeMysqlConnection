@@ -9,4 +9,5 @@ CREATE TABLE news(
 );
 
 DESCRIBE news;
-INSERT INTO news(title,news) VALUES('my title','content of the news')
+INSERT INTO news(title,news) VALUES('my title','content of the news');
+SELECT * FROM news;
